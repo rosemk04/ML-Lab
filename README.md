@@ -17,3 +17,6 @@ Implement polynomial regression on the Auto MPG dataset to predict miles per gal
 
 Experiment 3:
 Estimate the parameters of a logistic regression model using MLE and MAP on the Breast Cancer Wisconsin dataset. Compare the results and discuss the effects of regularization.
+
+Experiment 4:
+Implement a Naïve Bayes classifier to categorize text documents into topics using the 20 Newsgroups dataset. Compare the performance of Multinomial Naïve Bayes with Bernoulli Naïve Bayes.
