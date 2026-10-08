@@ -27,5 +27,5 @@ Implement the K-Nearest Neighbors (KNN) algorithm for image classification using
 Experiment 6:
 Implement a Decision Tree classifier using the ID3 algorithm to segment customers based on their purchasing behavior using the Online Retail dataset. Analyze the tree structure and discuss the feature importance.
 
-Experiment 7
+Experiment 7:
 Implement a Linear Support Vector Machine (SVM) to classify the Iris dataset. Visualize the decision boundary and discuss how the margin is determined.
